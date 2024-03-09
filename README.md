@@ -1,4 +1,4 @@
-# Patika-SQL-DEV-1
+# Patika-SQL-ÖDEV-1
 PgAdmin üzerinden dvdrental veritabanı kullanılarak, 5 maddeden oluşan ödev için SQL sorgusu yapılmıştır. 
 /* film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.*/
 SELECT title, description FROM film;
